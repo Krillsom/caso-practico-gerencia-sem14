@@ -1,5 +1,6 @@
 Para cumplir con los requerimientos, hemos conformado un equipo multidisciplinario.
 | Rol | Persona | Funcionalidades |
+|-|-|-|
 | Director de proyecto | Álvaro Orozco | Gestión de interesados, control de alcance y cronograma. Entregables: Actas de reunión, Reportes gerenciales de avance. |
 | Arquitecto de Software | Paolo Reaño | Diseño de la Arquitectura Hexagonal y topología de red. Entregables: Documento de Arquitectura de Software. |
 | Especialista QA y DevOps | Kevin Chi | QA: Aseguramiento de calidad funcional y no funcional. Entregables: Casos de prueba, Reportes de bugs. DevOps: Gestión de infraestructura, pipelines CI/CD y automatización. Entregables: Ambientes configurados, Scripts de pase a producción. |
