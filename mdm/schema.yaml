@@ -1,0 +1,25 @@
+- title: "Propuesta Técnica"
+  alias: "propuesta_tecnica"
+  has_intro: true
+  children:
+    - title: "Contexto"
+
+    - title: "Enfoque Metodológico"
+
+    - title: "Metodología"
+
+    - title: "Restricciones"
+
+    - title: "Equipo"
+
+    - title: "Gestión de Riesgos"
+      alias: "riesgos"
+
+    - title: "Plan de Trabajo"
+      alias: "plan_de_trabajo"
+
+    - title: "Aseguramiento de la Calidad del Proyecto"
+      alias: "aseguramiento_calidad"
+
+    - title: "Plan de Comunicación y Asignación de Roles (RACI)"
+      alias: "plan_comunicacion_raci"
