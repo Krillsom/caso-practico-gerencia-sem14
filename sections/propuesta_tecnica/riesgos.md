@@ -1,5 +1,6 @@
 | Cód. | Riesgo | Prob. | Impacto | Estrategia de mitigación | Responsable |
 |------|---------|-------|---------|--------------------------|-------------|
+| R1 | Migración de ~35 000 activos con datos heterogéneos y de baja calidad | Alto | Alto | Proceso de migración por etapas con limpieza, validación y carga controlada; iniciar temprano con un piloto por sede. | Arquitecto / Dev. Backend |
 | R2 | Dispersión geográfica de 18 sedes y problemas de conectividad | Media | Alto | Aplicación web con buenas prácticas de rendimiento; coordinación de accesos y ventanas; capacitaciones remotas. | Arquitecto / Director |
 | R3 | Resistencia al cambio y baja adopción por parte de los usuarios | Media | Alto | Involucrar a usuarios clave desde el inicio, demos mensuales, plan de capacitación y acompañamiento. | Director / Analista |
 | R4 | Baja calidad o inconsistencia de los datos de origen | Alta | Medio | Reglas de validación, saneamiento de datos y criterios de aceptación de la migración. | Analista / QA |
