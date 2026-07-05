@@ -1,3 +1,5 @@
+La gestión de riesgos se realiza de forma continua a lo largo del proyecto: los riesgos se identifican, se analizan según su probabilidad e impacto, se priorizan y se les asigna una estrategia de respuesta y un responsable. El registro de riesgos se revisa en el comité de dirección mensual y en las retrospectivas de sprint, incorporando nuevos riesgos a medida que se detectan.
+
 | Cód. | Riesgo | Prob. | Impacto | Estrategia de mitigación | Responsable |
 |------|---------|-------|---------|--------------------------|-------------|
 | R1 | Migración de ~35 000 activos con datos heterogéneos y de baja calidad | Alto | Alto | Proceso de migración por etapas con limpieza, validación y carga controlada; iniciar temprano con un piloto por sede. | Arquitecto / Dev. Backend |
