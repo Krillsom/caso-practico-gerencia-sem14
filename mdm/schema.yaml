@@ -7,6 +7,17 @@
     - title: "Enfoque Metodológico"
 
     - title: "Metodología"
+      alias: "metodologia"
+      has_intro: true
+      children:
+        - title: "ISO/IEC/IEEE 12207 — Procesos del Ciclo de Vida del Software"
+          alias: "iso_12207"
+
+        - title: "ISO/IEC 25070 — Definición de Necesidades del Usuario"
+          alias: "iso_25070"
+
+        - title: "PMBOK — Gestión del Proyecto"
+          alias: "pmbok"
 
     - title: "Restricciones"
 
